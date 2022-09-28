@@ -1,6 +1,6 @@
 # Simple React Quiz Application
 
-This is a simple react app that allows you to create, solve and share quiz. \
+This is a simple react app that allows you to create, solve and share quiz. This app was created for educational purposes to show you how to use React, React Router and Redux. \
 👉 [View Demo](https://quiz.vchebotarev.dev/).
 
 ## Installation and Setup Instructions
